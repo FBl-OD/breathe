@@ -1,0 +1,4 @@
+#Fri Apr 03 21:32:04 GMT+08:00 2020
+base.0=D\:\\workspace\\SURVEY\\Demo\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex

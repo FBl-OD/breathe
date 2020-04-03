@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\workspace\\SURVEY\\Demo\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\joker\\.gradle\\caches\\transforms-2\\files-2.1\\97f6507c1731b553f7d764fe34ef299d\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,8,9,16,20,24,27",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,550,666,1123,1417,1712,1884",
+                        "endLines": "2,3,4,5,8,9,16,20,26,31",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,661,787,1244,1540,1879,2217"
+                    }
+                },
+                {
+                    "source": "D:\\workspace\\SURVEY\\Demo\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,153",
+                        "endColumns": "97,99",
+                        "endOffsets": "148,248"
+                    },
+                    "to": {
+                        "startLines": "6,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "354,451",
+                        "endColumns": "96,98",
+                        "endOffsets": "446,545"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\joker\\.gradle\\caches\\transforms-2\\files-2.1\\9e1a5a403d8af13cefa5baff3196a746\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "10,13,17,21",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "792,960,1249,1545",
+                        "endLines": "12,15,19,23",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "955,1118,1412,1707"
+                    }
+                }
+            ]
+        }
+    ]
+}

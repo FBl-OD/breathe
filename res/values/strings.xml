@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">电台</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="remove">remove</string>
+    <string name="stop">stop</string>
+    <string name="start">start download</string>
+
+    <color name="selected_bg">#e5dcda</color>
+    <color name="textcolor">#333</color>
+    <color name="red">#ff0000</color>
+
+</resources>

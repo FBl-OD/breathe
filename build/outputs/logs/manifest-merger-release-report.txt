@@ -1,0 +1,282 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:2:1-92:12
+INJECTED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:2:1-92:12
+INJECTED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:2:1-92:12
+INJECTED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:2:1-92:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\3c9b89834a59aca0f3365dde6c3b4792\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\9e1a5a403d8af13cefa5baff3196a746\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\1d763f13d5f2a7afe8442c03f9dd45a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\b39a681fe1ecd1ae60159f9fa0766b6e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\ae47f7b7332ab506f1eeb8d39f585dec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\354db7bf2c00351e73b142c122c097da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\2721f3bdd7e95567cc640afb432b391a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\6170fc839b77c21cab8438f6a52b23e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\44b3aea2154426e2cb24287e842c483a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\c79f9b03c5544afacbaee810d46ab107\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\6305d171a121d3154a07b38cc7740d8c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\a86fdf8e5f02f3baccb0bf9d392e337c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\b4342879265cb390be01aae642589342\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\97f6507c1731b553f7d764fe34ef299d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\bc3d41e823be248f47b5f623feaa5907\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\3ea9c98e1ca2c72fe99eebec425066d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\2246b6c2c38de396ad55a1026a0f2d32\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\18c02af935d10c3bc99940e69bb2fdc4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\ce52d1760fee179593148682f96c96e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\be9f6fb33335003f5019de116a03e10e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\4322710b6448906759afb6443b300c20\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\af19b6fb43820dfff4c3b6d5351472aa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\43f51468e7b76e0b52d7a5e9fb8c3718\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\2899dd453b42a0afb775a5f642b63e27\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\d5e8f98a15e81e907ce739c4e6c232e1\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:2:1-92:12
+INJECTED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:2:1-92:12
+INJECTED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:2:1-92:12
+	package
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:3:5-35
+		INJECTED from D:\workspace\SURVEY\Demo\AndroidManifest.xml
+		INJECTED from D:\workspace\SURVEY\Demo\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:5:5-30
+		INJECTED from D:\workspace\SURVEY\Demo\AndroidManifest.xml
+		INJECTED from D:\workspace\SURVEY\Demo\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:4:5-28
+		INJECTED from D:\workspace\SURVEY\Demo\AndroidManifest.xml
+		INJECTED from D:\workspace\SURVEY\Demo\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:16:22-74
+application
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:18:5-90:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\97f6507c1731b553f7d764fe34ef299d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\97f6507c1731b553f7d764fe34ef299d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\bc3d41e823be248f47b5f623feaa5907\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\bc3d41e823be248f47b5f623feaa5907\AndroidManifest.xml:22:5-23:19
+	android:screenOrientation
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:22:9-45
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\97f6507c1731b553f7d764fe34ef299d\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:24:9-41
+	android:icon
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:21:9-45
+	android:allowBackup
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:20:9-36
+	android:networkSecurityConfig
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:23:9-69
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:19:9-77
+meta-data#app_key
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:26:9-28:64
+	android:value
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:28:13-61
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:27:13-35
+meta-data#pack_id
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:30:9-32:52
+	android:value
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:32:13-49
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:31:13-35
+activity#com.breathe.ting.android.opensdk.test.MainFragmentActivity
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:34:9-44:20
+	android:label
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:36:13-45
+	android:launchMode
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:37:13-44
+	android:uiOptions
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:38:13-57
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:35:13-86
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:42:27-74
+activity#com.ximalaya.ting.android.opensdk.auth.component.XmlyBrowserComponent
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:47:9-51:58
+	android:windowSoftInputMode
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:51:13-55
+	android:exported
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:50:13-37
+	android:configChanges
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:49:13-63
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:48:13-97
+activity#com.ximalaya.ting.android.xmpayordersdk.XmPayOrderActivity
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:54:9-58:58
+	android:windowSoftInputMode
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:58:13-55
+	android:exported
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:57:13-37
+	android:configChanges
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:56:13-63
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:55:13-86
+activity#com.breathe.ting.android.opensdk.test.download.DownloadTrackActivity
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:60:9-115
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:60:19-102
+activity#com.breathe.ting.android.opensdk.test.download.DownloadActivity
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:61:9-109
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:61:19-97
+activity#com.breathe.ting.android.opensdk.test.download.BatchDownloadActivity
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:62:9-114
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:62:19-102
+service#com.ximalaya.ting.android.opensdk.player.service.XmPlayerService
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:64:9-65:19
+	android:process
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:64:122-147
+	android:exported
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:64:98-121
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:64:18-97
+receiver#com.ximalaya.ting.android.opensdk.player.receive.PlayerReceiver
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:67:9-76:20
+	android:process
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:68:116-141
+	android:exported
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:68:92-115
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:68:13-91
+intent-filter#action:name:com.ximalaya.ting.android.ACTION_CLOSE+action:name:com.ximalaya.ting.android.ACTION_CONTROL_PLAY_NEXT+action:name:com.ximalaya.ting.android.ACTION_CONTROL_PLAY_PRE+action:name:com.ximalaya.ting.android.ACTION_CONTROL_RELEASE_SERVICE+action:name:com.ximalaya.ting.android.ACTION_CONTROL_START_PAUSE
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:69:13-75:29
+action#com.ximalaya.ting.android.ACTION_CONTROL_START_PAUSE
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:70:17-95
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:70:25-92
+action#com.ximalaya.ting.android.ACTION_CONTROL_PLAY_PRE
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:71:17-92
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:71:25-89
+action#com.ximalaya.ting.android.ACTION_CONTROL_PLAY_NEXT
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:72:17-93
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:72:25-90
+action#com.ximalaya.ting.android.ACTION_CLOSE
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:73:17-81
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:73:25-78
+action#com.ximalaya.ting.android.ACTION_CONTROL_RELEASE_SERVICE
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:74:17-99
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:74:25-96
+receiver#com.ximalaya.ting.android.opensdk.player.receive.WireControlReceiver
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:78:9-80:45
+	android:process
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:79:19-44
+	android:exported
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:80:19-42
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:78:19-102
+receiver#com.breathe.ting.android.opensdk.test.reciver.MyPlayerReceiver
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:82:9-87:20
+	android:exported
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:82:97-120
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:82:19-96
+intent-filter#action:name:com.app.test.android.Action_Close+action:name:com.app.test.android.Action_PAUSE_START
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:83:13-86:29
+action#com.app.test.android.Action_Close
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:84:17-75
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:84:25-73
+action#com.app.test.android.Action_PAUSE_START
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:85:17-81
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:85:25-79
+receiver#com.breathe.ting.android.opensdk.test.reciver.CustomMediaButtonReceiver
+ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:88:9-107
+	android:name
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml:88:19-105
+uses-sdk
+INJECTED from D:\workspace\SURVEY\Demo\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\workspace\SURVEY\Demo\AndroidManifest.xml
+INJECTED from D:\workspace\SURVEY\Demo\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\3c9b89834a59aca0f3365dde6c3b4792\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\3c9b89834a59aca0f3365dde6c3b4792\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\9e1a5a403d8af13cefa5baff3196a746\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\9e1a5a403d8af13cefa5baff3196a746\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\1d763f13d5f2a7afe8442c03f9dd45a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\1d763f13d5f2a7afe8442c03f9dd45a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\b39a681fe1ecd1ae60159f9fa0766b6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\b39a681fe1ecd1ae60159f9fa0766b6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\ae47f7b7332ab506f1eeb8d39f585dec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\ae47f7b7332ab506f1eeb8d39f585dec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\354db7bf2c00351e73b142c122c097da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\354db7bf2c00351e73b142c122c097da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\2721f3bdd7e95567cc640afb432b391a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\2721f3bdd7e95567cc640afb432b391a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\6170fc839b77c21cab8438f6a52b23e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\6170fc839b77c21cab8438f6a52b23e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\44b3aea2154426e2cb24287e842c483a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\44b3aea2154426e2cb24287e842c483a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\c79f9b03c5544afacbaee810d46ab107\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\c79f9b03c5544afacbaee810d46ab107\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\6305d171a121d3154a07b38cc7740d8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\6305d171a121d3154a07b38cc7740d8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\a86fdf8e5f02f3baccb0bf9d392e337c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\a86fdf8e5f02f3baccb0bf9d392e337c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\b4342879265cb390be01aae642589342\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\b4342879265cb390be01aae642589342\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\97f6507c1731b553f7d764fe34ef299d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\97f6507c1731b553f7d764fe34ef299d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\bc3d41e823be248f47b5f623feaa5907\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\bc3d41e823be248f47b5f623feaa5907\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\3ea9c98e1ca2c72fe99eebec425066d5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\3ea9c98e1ca2c72fe99eebec425066d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\2246b6c2c38de396ad55a1026a0f2d32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\2246b6c2c38de396ad55a1026a0f2d32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\18c02af935d10c3bc99940e69bb2fdc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\18c02af935d10c3bc99940e69bb2fdc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\ce52d1760fee179593148682f96c96e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\ce52d1760fee179593148682f96c96e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\be9f6fb33335003f5019de116a03e10e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\be9f6fb33335003f5019de116a03e10e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\4322710b6448906759afb6443b300c20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\4322710b6448906759afb6443b300c20\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\af19b6fb43820dfff4c3b6d5351472aa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\af19b6fb43820dfff4c3b6d5351472aa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\43f51468e7b76e0b52d7a5e9fb8c3718\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\43f51468e7b76e0b52d7a5e9fb8c3718\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\2899dd453b42a0afb775a5f642b63e27\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\2899dd453b42a0afb775a5f642b63e27\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\d5e8f98a15e81e907ce739c4e6c232e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\d5e8f98a15e81e907ce739c4e6c232e1\AndroidManifest.xml:20:5-44
+INJECTED from D:\workspace\SURVEY\Demo\AndroidManifest.xml
+INJECTED from D:\workspace\SURVEY\Demo\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\workspace\SURVEY\Demo\AndroidManifest.xml
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml
+		INJECTED from D:\workspace\SURVEY\Demo\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\workspace\SURVEY\Demo\AndroidManifest.xml
+		ADDED from D:\workspace\SURVEY\Demo\AndroidManifest.xml
+		INJECTED from D:\workspace\SURVEY\Demo\AndroidManifest.xml
